@@ -25,6 +25,10 @@ This is the final capstone project for the "Front-end Developer" specialization,
 - **Axios** (API calls)
 - **World Wide Restaurants API** (RapidAPI, mocked for demo)
 
+
+## Live Demo
+- [View the deployed app on Vercel](https://little-lemon-capstone-ochre.vercel.app/)
+
 ## Getting Started
 1. Clone the repo:
 	```sh
