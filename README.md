@@ -1,12 +1,60 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Little Lemon Capstone Project
 
-Currently, two official plugins are available:
+![Little Lemon Icon](public/littleLemonIcon(AIGenerated).png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Overview
+This is the final capstone project for the "Front-end Developer" specialization, built for the Little Lemon restaurant. The app allows users to book tables, view the menu, and learn more about the restaurant. It demonstrates modern React development, accessibility, testing, and responsive design.
 
-## Expanding the ESLint configuration
+## Features
+- **Booking Form:** Fully functional, accessible, and validated form for table reservations.
+- **Menu & Specials:** Dynamic menu and daily specials, with real food images.
+- **Reviews:** Guest reviews section.
+- **Custom Branding:** Unique favicon and hero image for restaurant identity.
+- **Responsive Design:** Mobile-friendly layout using Tailwind CSS.
+- **Accessibility:** ARIA tags, semantic HTML, and keyboard navigation.
+- **Unit Tests:** Booking form is covered by unit tests using Vitest and Testing Library.
+- **API Integration:** Uses a worldwide restaurants API (mocked for demo) to fetch menu items and reviews.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tech Stack
+- **React** (with Vite)
+- **Tailwind CSS**
+- **Vitest** (unit testing)
+- **Testing Library**
+- **Yup** (form validation)
+- **Axios** (API calls)
+- **World Wide Restaurants API** (RapidAPI, mocked for demo)
+
+## Getting Started
+1. Clone the repo:
+	```sh
+	git clone https://github.com/AhmedQw1/little-lemon-capstone.git
+	cd little-lemon-capstone
+	```
+2. Install dependencies:
+	```sh
+	npm install
+	```
+3. Start the dev server:
+	```sh
+	npm run dev
+	```
+4. Run tests:
+	```sh
+	npm test
+	```
+
+## Aesthetic Showcase
+- The site tab icon and hero image use custom branding:
+  ![Favicon](public/littleLemonIcon(AIGenerated).png)
+
+## Accessibility & Responsiveness
+- All forms and navigation are accessible and keyboard-friendly.
+- Layout adapts to all screen sizes.
+
+## License
+This project is for educational purposes as part of the Coursera Front-end Developer Capstone.
+
+---
+
+**Created by AhmedQw1 for the Little Lemon Capstone.**
