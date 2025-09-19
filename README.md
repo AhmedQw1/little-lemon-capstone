@@ -1,7 +1,13 @@
+# Little Lemon Capstone 🍋
 
-# Little Lemon Capstone Project
-
-![Little Lemon Icon](public/littleLemonIcon(AIGenerated).png)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![React](https://img.shields.io/badge/React-18-61DAFB.svg?logo=react)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Vite-Build-646CFF.svg?logo=vite)](https://vitejs.dev/)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.x-38B2AC.svg?logo=tailwind-css)](https://tailwindcss.com/)
+[![Vitest](https://img.shields.io/badge/Vitest-Testing-3ECF8E.svg?logo=vitest)](https://vitest.dev/)
+[![Testing Library](https://img.shields.io/badge/Testing_Library-React-FF4785.svg?logo=testing-library)](https://testing-library.com/)
+[![Yup](https://img.shields.io/badge/Yup-Validation-FF6F61.svg?logo=yup)](https://github.com/jquense/yup)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue.svg?logo=vercel)](https://little-lemon-capstone-ochre.vercel.app/)
 
 ## Overview
 This is the final capstone project for the "Front-end Developer" specialization, built for the Little Lemon restaurant. The app allows users to book tables, view the menu, and learn more about the restaurant. It demonstrates modern React development, accessibility, testing, and responsive design.
